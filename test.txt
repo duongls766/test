@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<link type="text/css" href="css/style.css" rel="stylesheet" media="screen" />
+		<title>Đăng nhập</title>
+		<p>tài khoản: <input type="text" name="tài khoản" placehold="nhập tên tài khoản hoặc email" /></p>
+		<p>mật khẩu:<input type="password" name="mật khẩu" placehold="nhập mật khẩu" /></p>
+		</br><input type="button" name="đăng nhập" value="đăng nhập" />
+		
+</html>
